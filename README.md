@@ -1,6 +1,6 @@
 # weui-vue-demo
 
-[demo](https://hteen.github.io/weui-vue-demo/dist)
+[demo](https://hteen.github.io/weui-vue-demo/dist)请使用手机或模拟器预览
 
 ## Build Setup
 
